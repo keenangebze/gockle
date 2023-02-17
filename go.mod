@@ -1,10 +1,10 @@
-module github.com/willfaught/gockle
+module github.com/keenangebze/gockle
 
 go 1.19
 
 require (
-	github.com/gocql/gocql v1.2.1
 	github.com/maraino/go-mock v0.0.0-20180321183845-4c74c434cd3a
+	github.com/yugabyte/gocql v0.0.0-20221110041640-6fc475c5aeb0
 )
 
 require (

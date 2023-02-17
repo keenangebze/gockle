@@ -1,8 +1,8 @@
 package gockle
 
 import (
-	"github.com/gocql/gocql"
 	"github.com/maraino/go-mock"
+	"github.com/yugabyte/gocql"
 )
 
 // Iterator iterates CQL query result rows.

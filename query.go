@@ -3,8 +3,8 @@ package gockle
 import (
 	"context"
 
-	"github.com/gocql/gocql"
 	"github.com/maraino/go-mock"
+	"github.com/yugabyte/gocql"
 )
 
 // Query represents a CQL query.

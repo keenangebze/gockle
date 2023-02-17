@@ -1,8 +1,8 @@
 package gockle
 
 import (
-	"github.com/gocql/gocql"
 	"github.com/maraino/go-mock"
+	"github.com/yugabyte/gocql"
 )
 
 // ColumnApplied is the name of a special column that has a bool that indicates

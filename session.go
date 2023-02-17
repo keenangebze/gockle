@@ -3,8 +3,8 @@ package gockle
 import (
 	"fmt"
 
-	"github.com/gocql/gocql"
 	"github.com/maraino/go-mock"
+	"github.com/yugabyte/gocql"
 )
 
 func metadata(s *gocql.Session, keyspace string) (*gocql.KeyspaceMetadata, error) {

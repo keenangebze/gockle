@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gocql/gocql"
 	"github.com/maraino/go-mock"
+	"github.com/yugabyte/gocql"
 )
 
 const version = 4
